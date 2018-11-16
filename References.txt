@@ -1,0 +1,18 @@
+References:
+
+Opaque:
+#	[1] Wenting Zheng, Ankur Dave, Jethro Beekman, Raluca Ada Popa, Joseph Gonzalez, and Ion Stoica. Opaque: An Oblivious and Encrypted Distributed Analytics Platform. NSDI 2017, March 2017.
+#	https://www.youtube.com/watch?v=2q3sOYJot5U 
+#	https://github.com/ucbrise/opaque
+
+PYWREN:
+#	https://www.youtube.com/watch?v=OskQytBBdJU&t=890s
+#	https://github.com/ucbrise/risecamp/tree/risecamp2018/pywren 
+#	https://arxiv.org/pdf/1702.04024.pdf 
+
+WAVE:
+#	https://www.youtube.com/watch?v=l3gM2Sl2Cug&t=267s 
+#	http://bets.cs.berkeley.edu/publications/2017techreport_wave.pdf 
+#	https://github.com/ucbrise/risecamp/tree/risecamp2018/wave 
+
+
